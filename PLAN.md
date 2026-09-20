@@ -1,5 +1,7 @@
 # Production plan
 
+> **Historical v1.** Superseded by [PLAN-v2.md](PLAN-v2.md). The original plan is retained below; its Cash-voice, original-backing, and professional-budget requirements are no longer the current direction.
+
 Research date: **2026-09-20**. Status: **planning complete; production not approved or started**. All proposed work below is future work. The project owner retains production approval and spending authority. Primary sources and their limitations are recorded in [SOURCES.md](SOURCES.md); numbered source links below resolve there.
 
 

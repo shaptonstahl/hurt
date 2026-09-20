@@ -1,6 +1,6 @@
 # Source register
 
-All sources below were accessed on **2026-09-20**. They are official artist, government, language-institute, vendor, or original research/publisher sources. Statements in [PLAN.md](PLAN.md) distinguish documented features from proposed methods and untested inferences. Public pages can change; recheck rights, pricing, model-specific terms, and features before production. No audio examples were downloaded or used.
+All sources below were accessed on **2026-09-20**. They are official artist, government, language-institute, vendor, original research/publisher sources, or primary judicial opinions. Statements in the current [PLAN-v2.md](PLAN-v2.md) and historical [PLAN.md](PLAN.md) distinguish documented features from proposed methods and untested inferences. S01-S19 preserve v1's evidence, some of which remains relevant to v2; S20-S25 add v2's fair-use and DIY-tool research. Public pages can change; recheck rights, pricing, model-specific terms, and features before production. No audio examples were downloaded or used.
 
 ## S01
 
@@ -77,3 +77,27 @@ All sources below were accessed on **2026-09-20**. They are official artist, gov
 ## S19
 
 [Universal Music Group, ElevenLabs strategic agreement announcement](https://www.universalmusic.com/universal-music-group-and-elevenlabs-announce-multi-year-strategic-agreement-beginning-with-a-new-licensed-ai-music-creation-platform/). Published September 10, 2026; accessed 2026-09-20. Describes a separate platform in development for participating artists. Watch item only: no Cash/Hurt participation, Klingon support, launch availability, or blanket catalog permission is stated.
+
+## S20
+
+[U.S. Copyright Office, More Information on Fair Use](https://www.copyright.gov/fair-use/more-info.html). Accessed 2026-09-20. Explains the four factors, case-specific assessment, and why noncommercial use or a fixed amount of borrowing does not guarantee fair use. General guidance, not a determination about this project.
+
+## S21
+
+[Campbell v. Acuff-Rose Music, 510 U.S. 569 (1994), opinion of the Court](https://www.law.cornell.edu/supct/html/92-1292.ZO.html), reproduced by Cornell Legal Information Institute. Decided March 7, 1994; accessed 2026-09-20. Primary opinion on parody, its relationship to the original work, justified borrowing, and market substitution. Does not declare all parody fair use or decide this project's facts. No song text from the opinion is reproduced.
+
+## S22
+
+[Andy Warhol Foundation for the Visual Arts, Inc. v. Goldsmith, Supreme Court opinion](https://www.supremecourt.gov/opinions/22pdf/21-869_87ad.pdf). Decided May 18, 2023; accessed 2026-09-20. The majority's first-factor analysis focuses on the specific challenged use; added expression or meaning is not alone decisive. A fact-specific photography/licensing decision, not a ruling on this song project.
+
+## S23
+
+[Audacity, official FAQ](https://www.audacityteam.org/faq/) and [official multitrack tutorial](https://manual.audacityteam.org/man/tutorial_using_multi_track.html). Accessed 2026-09-20. Verify free/open-source audio editing and recording, plus independent track handling. Software availability is not a license for the music edited with it. No download or installation was performed.
+
+## S24
+
+[REAPER, official feature reference](https://www.reaper.fm/about.php). Accessed 2026-09-20. Documents audio/MIDI overdubbing, tempo changes, virtual-instrument support, pitch effects, rendering, and included basic synthesis/mixing tools. The plan does not assume a complete sampled acoustic-instrument library is bundled.
+
+## S25
+
+[REAPER, official purchase page](https://www.reaper.fm/purchase.php). Accessed 2026-09-20 and checked in the live browser. Displays $60 discounted/$225 commercial licenses and a 60-day fully functional evaluation. Personal-use eligibility is stated; VAT/local taxes are excluded. This verified software price is distinct from unquoted equipment, review, and rights costs.
